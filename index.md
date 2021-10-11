@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 豆宝生活
 
-You can use the [editor on GitHub](https://github.com/Beiqina/supNui/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+发现身边的兴趣生活，分享自身美好的事情。建立兴趣之中的桥梁，应用中收集了精选兴趣游玩项目，快来体验吧。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你在使用中遇到任何问题，可以通过客服电话和我们联系，我们的客服的电话是: +91 7555027917
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beiqina/supNui/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
